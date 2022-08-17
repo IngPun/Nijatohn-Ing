@@ -18,6 +18,6 @@
  - ist
  
  [x] #739 
- [] task list
- [] task list
+ [ ] [task list](https://github.com/octo-org/octo-repo/issues/740)
+ [ ] task list
  :tada: emoji
