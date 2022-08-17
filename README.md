@@ -16,7 +16,8 @@
  list
 -  list
  - ist
- [] #739 
+ 
+ [x] #739 
  [] task list
  [] task list
  :tada: emoji
