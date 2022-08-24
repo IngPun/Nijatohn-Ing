@@ -11,6 +11,7 @@ tie my hair with a scrunchie into a ponytail so it won't get wet
 go inside the bathroom
 go inside the shower
 turn on the shower switch
+grab the toothbrush
 brush my teeth
 grab the soap
 clean myself with the soap
@@ -20,6 +21,30 @@ turn off the shower switch
 walk put of the shower
 grab the towel
 dry myself with the towel
+walk out of the bathroom
+go to the closet
 grab my clothes
 put myself in the clothes 
+walk put of the dressing room
 take of the scrunchie
+brush my hair 
+walk to the living room
+walk to the kitchen
+grab a spoon
+grab a fork
+grab a plate
+walk back to the living room
+move the chair 
+sit on the chair 
+put my spoon on the table
+put my fork on the table
+put my plate on the table
+put the food on my plate 
+grab my spoon 
+grab my fork
+eat the food
+finish my food
+put the fork on the plate
+put the spoon on the plate
+get of the chair
+
