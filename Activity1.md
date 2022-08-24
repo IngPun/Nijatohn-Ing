@@ -87,5 +87,24 @@ wait for the train to arrive
 walk inside the train
 sit on the chair
 wait for the train to arrive at Siam
+get off the chair
+walk out of the train
+walk down stair 
+walk down stair again
+walk to the stair again
+walk down the stair 
+walk to the building
+say bye to my mum
+walk inside the building 
+walk to the lift but the lift was full
+walk up stair 
+arrive at the 11th floor
+walk inside the school
+take out my school ID card from my bag
+scan my school ID card
+put my school ID card back inside the bag
+take my phone out of my bag
+look at the schdule in my phone
+
 
 
