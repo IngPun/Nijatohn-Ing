@@ -47,4 +47,39 @@ finish my food
 put the fork on the plate
 put the spoon on the plate
 get of the chair
+grab my bag
+open the zip
+put my ipad inside the bag
+put my phone inside the bag
+put my pencil case inside the bag
+put my books inside the bag
+close the zip
+grab my water bottle
+grab my mask 
+grab my watch
+walk to the shoe room
+grab my sock
+grab my shoe
+put my bag on the sofa
+put my water bottle on the sofa
+sit on the sofa
+put my shoe on the floor
+put on my sock
+put on my shoe 
+play with my rabbit
+feed my rabbit grass
+feed my rabbit pellets
+film my rabbit
+cried for 5 seconds because my rabbit bit my phone
+look at my watch
+shout so my mum can hear upstairs that we are late
+grab my bag
+grab my water bottle 
+walk to the car with my mum
+sit on the car
+arrive the BTS place 
+walk out of the car
+walk on the stair 
+scan my BTS card
+
 
