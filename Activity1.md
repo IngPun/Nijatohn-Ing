@@ -81,5 +81,11 @@ arrive the BTS place
 walk out of the car
 walk on the stair 
 scan my BTS card
+walk to the stair
+walk on the stair 
+wait for the train to arrive
+walk inside the train
+sit on the chair
+wait for the train to arrive at Siam
 
 
