@@ -105,6 +105,11 @@ scan my school ID card
 put my school ID card back inside the bag
 take my phone out of my bag
 look at the schdule in my phone
-
+put my phone inside my bag
+walk to the room 10 
+find a seat
+put my bag on the floor
+put my waterbottle on the floor
+sit on the seat 
 
 
