@@ -110,6 +110,6 @@ walk to the room 10
 find a seat
 put my bag on the floor
 put my waterbottle on the floor
-sit on the seat 
+sit on the seat
 
 
