@@ -9,3 +9,12 @@ SEND 'YOU GUESSED IT CORRECTED!' TO DISPLAY
 ELSE
 SEND 'BADLUCK' TO DISPLAY
 SET END
+
+challenge
+
+SEND 'Enter you height' TO DISPLAY
+RECIEVE height FROM KEYBOARD
+SEND 'Enter your weight' TO DISPLAY
+RECIEVE weight FROM KEYBOARD
+SET BMI TO weight/height^2
+SEND "Yoyr body mass index is'BMI TO DISPLAY
