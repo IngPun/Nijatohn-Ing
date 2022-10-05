@@ -1,6 +1,6 @@
-SEND 'Please enter the first number' TO DISPLAY
-RECEIVE firstNumber FROM KEYBOARD
-SEND 'Please enter the second number' TO DISPLAY
-RECEIVE secondNumber FROM KEYBOARD 
-SET total TO firstNumber + secondNumber
-SEND total TO DISPLAY
+SEND 'Enter the first number' TO DISPLAY
+RECIEVE FirstNumber FROM KEYBOARD
+SEND 'Enter the second number' TO DISPLAY
+RECIEVE SecondNumber FROM KEYBOARD
+SET ThirdNumber to * SecondNumber
+SEND ThirdNumber TO DISPLAY
